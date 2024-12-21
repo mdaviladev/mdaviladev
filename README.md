@@ -8,7 +8,7 @@
 ###
 
 <div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdaviladev&layout=pie&count_private=true)](https://github.com/mdaviladev/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdaviladev&layout=pie)](https://github.com/mdaviladev/github-readme-stats)
 </div>
 
 ###
