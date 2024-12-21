@@ -8,6 +8,7 @@
 ![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=mdaviladev&theme=dark)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdaviladev&theme=dark)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdaviladev&show_icons=true&count_private=true)
 
 </div>
 
