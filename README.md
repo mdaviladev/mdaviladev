@@ -6,6 +6,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdaviladev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
 ![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=mdaviladev&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdaviladev&theme=dark)
+
 
 </div>
 
