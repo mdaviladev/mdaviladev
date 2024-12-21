@@ -1,6 +1,13 @@
 <h2 align="left">Olá 👋! Meu nome é Marcelo Duarte</h2>
 
 ###
+<div  align="center" style="margin-bottom:100px">
+    <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=mdaviladev&theme=radical&mode=weekly" />
+    <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=mdaviladev&show_icons=true&theme=radical&layout=compact" />
+</div>
+
+
+###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=mdaviladev&locale=pt-BR&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
