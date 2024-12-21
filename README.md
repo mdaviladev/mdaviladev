@@ -32,14 +32,18 @@
 
 ###
 
+<div align="center">
 #### Databases:
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![MySql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+</div>
 
 ###
 
+<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdaviladev&layout=donut-vertical)](https://github.com/mdaviladev/github-readme-stats)
+</div>  
 
 ###
 <div align="center">
