@@ -69,7 +69,7 @@ Databases:
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdaviladev&theme=tokyonight&layout=compact&custom_title=Tecnologias&count_private=true&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdaviladev&theme=tokyonight&layout=compact&custom_title=Tecnologias&include_all_commits=true&count_private=true&langs_count=9" 
   />
 
 </p>
