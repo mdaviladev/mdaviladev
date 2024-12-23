@@ -42,7 +42,7 @@
 
 Databases:
 
-<a href="https://www.microsoft.com/sql-server" target="_blank">
+<a href="https://www.microsoft.com/sql-server" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
 </a>
   
