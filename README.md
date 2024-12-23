@@ -1,6 +1,6 @@
 <h2 align="center">Olá 👋! Meu nome é Marcelo Duarte, seja bem vindo</h2>
 
-$$$
+###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=mdaviladev&locale=pt-BR&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
