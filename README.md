@@ -1,4 +1,4 @@
-<h2 align="center">Olá 👋! Meu nome é Marcelo Duarte, seja bem vindo</h2>
+<h2 align="center"> </h2>
 
 ###
 
