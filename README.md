@@ -8,6 +8,11 @@
 
 ###
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdaviladev)](https://github.com/mdaviladev/github-readme-stats)
+
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
   <img width="12" />
