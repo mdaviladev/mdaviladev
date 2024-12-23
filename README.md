@@ -8,8 +8,9 @@
 
 ###
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdaviladev)](https://github.com/mdaviladev/github-readme-stats)
-
+<a href="https://github.com/mdaviladev/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdaviladev" alt="Top Langs">
+</a>
 
 ###
 
