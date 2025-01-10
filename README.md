@@ -1,13 +1,3 @@
-<h2 align="center"> </h2>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mdaviladev&locale=pt-BR&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
